@@ -1,0 +1,21 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  width: 960px;
+  margin: 40px auto;
+}
+
+section {
+  background-color: blue;
+}
+
+h1 {
+  color: red;
+  font-weight: 700;
+}
+
+p, a {
+  color: white;
+  font-weight: 500;
+}
+
+
